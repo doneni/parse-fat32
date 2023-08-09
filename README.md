@@ -10,7 +10,7 @@ parsing FAT32 format image file
 Usage:
 <pre>
   <code>
-    Python3 parse-fat32.py &lt;target_cluster&lt;
+    Python3 parse-fat32.py &lt;target_cluster&gt;
   </code>
 </pre>
 
