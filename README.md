@@ -6,7 +6,7 @@ parsing FAT32 format image file
 2. parsing first FAT table
 3. checking integrity by parsing second FAT table
 4. printing cluster chain that comes after targer cluster
-
+<br>
 Usage:
 <pre>
   <code>
